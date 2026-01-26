@@ -1,4 +1,4 @@
-<h1 align = "center"> UAS_distributed_decentralized</h1> 
+<h1 align = "center"> UAS distributed-decentralized</h1> 
 
 <p align = "justify">
     <b> Nama        :</b> Christian.R <br>
